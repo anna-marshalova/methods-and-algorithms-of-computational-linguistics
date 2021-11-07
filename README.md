@@ -1,2 +1,2 @@
-# methods-and-algorithms-of-computational-linguistics
-repository for handing in homeworks
+Методы и алгоритмы компьютерной лингвистики
+репозиторий для домашних заданий по курсу
